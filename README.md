@@ -1,2 +1,2 @@
 # Perl
-Perl notes
+Perl 5.10 notes
